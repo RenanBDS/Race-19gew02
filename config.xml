@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.gmail.renan19gew02.race"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Race 19gew02</name>
+
+  <description>
+      Corrida do meu curso do CEBRAC ;)
+  </description>
+
+  <author href="https://build.phonegap.com" email="renan19gew02@gmail.com>
+      Renan Batista Dos Santos 
+  </author>
+  <icon src="icon.png" />
+</widget>
